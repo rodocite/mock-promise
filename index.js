@@ -1,4 +1,4 @@
-exports.mockPromise = function(resolveProbability, minTime, maxTime, mockData) {
+var mockPromise = function(resolveProbability, minTime, maxTime, mockData) {
   if (resolveProbability === undefined || resolveProbability === null) {
     resolveProbability = 1;
   }
@@ -25,3 +25,5 @@ exports.mockPromise = function(resolveProbability, minTime, maxTime, mockData) {
     }
   });
 };
+
+module.exports = mockPromise;
