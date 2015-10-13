@@ -1,7 +1,5 @@
----
-layout: post
-title: mockPromise( )
----
+# mockPromise( )
+
 A simple helper function that generates a timed mock promise. I thought it might be useful for people who want to play around with promises-- just `npm install mock-promise` or alternatively, paste the source into your code.
 
 There are four **optional** arguments:

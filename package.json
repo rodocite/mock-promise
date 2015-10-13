@@ -1,6 +1,6 @@
 {
   "name": "mock-promise",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodocite/mockpromise.git"
+    "url": "git+https://github.com/rodocite/mock-promise.git"
   },
   "author": "Rodolfo Yabut <rodolfoyabut@gmail.com> (https://rodocite.github.io)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rodocite/mockpromise/issues"
+    "url": "https://github.com/rodocite/mock-promise/issues"
   },
-  "homepage": "https://github.com/rodocite/mockpromise#readme"
+  "homepage": "https://github.com/rodocite/mock-promise#readme"
 }
