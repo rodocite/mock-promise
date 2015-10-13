@@ -1,0 +1,19 @@
+{
+  "name": "mock-promise",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodocite/mockpromise.git"
+  },
+  "author": "Rodolfo Yabut <rodolfoyabut@gmail.com> (https://rodocite.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodocite/mockpromise/issues"
+  },
+  "homepage": "https://github.com/rodocite/mockpromise#readme"
+}
