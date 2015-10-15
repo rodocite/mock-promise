@@ -1,8 +1,8 @@
 {
   "name": "mock-promise",
-  "version": "0.1.3",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.4",
+  "description": "A simple helper function that generates a timed mock promise.",
+  "main": "mock-promise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
