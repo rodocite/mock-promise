@@ -2,6 +2,10 @@ var mockPromise = function(resolveProbability, minTime, maxTime, mockData) {
   if (resolveProbability === undefined || resolveProbability === null) {
     resolveProbability = 1;
   }
+  
+  if (minTime > maxTime) {
+    console.error('minTime cannot be greater than maxTime');
+  }
 
   // Creating mock data in case none is passed in
   var data = mockData || 'Resolved Value';
