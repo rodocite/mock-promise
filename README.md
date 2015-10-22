@@ -92,4 +92,5 @@ Promise.all(promiseArray)
         { data: { hello: 'world' }, time: '3158ms' },
         { data: { hello: 'world' }, time: '1651ms' } ]
 */
+
 ```
